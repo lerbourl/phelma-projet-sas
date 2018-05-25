@@ -6,4 +6,4 @@ Vous trouverez ici les sources du projet.
 On retrouve le code arduino, le code python et le code javascript relatif à l'extension sas
 
 ## récupération des sources
-`git clone
+`git clone https://github.com/lerbourl/phelma_projet_sas`
