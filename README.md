@@ -1,4 +1,4 @@
-# phelma_projet_sas
+# phelma-projet-sas
 Un projet 1A à phelma. Programmation en scratch d'une maquette électronique.
 
 ## description
